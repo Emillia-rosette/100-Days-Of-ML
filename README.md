@@ -9,4 +9,5 @@ Prerequisites for this challenge are:
 - Problem Solving 
 
 ### Day 1: 03/01/2021 - Naive Bayes
-
+- Started by understanding the basics of Naive Bayes classification 
+- 
