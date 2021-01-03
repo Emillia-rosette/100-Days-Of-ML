@@ -8,5 +8,5 @@ Prerequisites for this challenge are:
 - Sense of curiosity 
 - Problem Solving 
 
-### Day 1 |03/01/2021 - Naive Bayes
+### Day 1: 03/01/2021 - Naive Bayes
 
